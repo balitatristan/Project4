@@ -1,0 +1,8 @@
+hello world!
+
+
+
+git status
+git init = git initialize only do once per session
+git add * = to track a file, the star adds everything in the folder 
+or git add tristan.txt = for specific
